@@ -1,0 +1,4 @@
+﻿  myproject.cpp
+TongXunLu.obj : error LNK2005: "void __cdecl showMenu(void)" (?showMenu@@YAXXZ) 已经在 myproject.obj 中定义
+TongXunLu.obj : error LNK2005: _main 已经在 myproject.obj 中定义
+E:\C++\project code\TongXunLu\Debug\TongXunLu.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

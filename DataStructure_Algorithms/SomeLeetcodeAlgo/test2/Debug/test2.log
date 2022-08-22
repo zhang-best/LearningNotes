@@ -1,0 +1,7 @@
+﻿  test2.cpp
+E:\C++\project code\test2\test2.cpp(8,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\project code\test2\test2.cpp(17,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\project code\test2\test2.cpp(27,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\project code\test2\test2.cpp(32,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\project code\test2\test2.cpp(37,23): warning C4018: “<=”: 有符号/无符号不匹配
+  test2.vcxproj -> E:\C++\project code\test2\Debug\test2.exe

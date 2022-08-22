@@ -1,0 +1,4 @@
+﻿  LeetcodeAlgorithms.cpp
+E:\C++\project code\LeetcodeAlgorithms\LeetcodeAlgorithms.cpp(85,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\project code\LeetcodeAlgorithms\LeetcodeAlgorithms.cpp(116,18): warning C4018: “<”: 有符号/无符号不匹配
+  LeetcodeAlgorithms.vcxproj -> E:\C++\project code\LeetcodeAlgorithms\Debug\LeetcodeAlgorithms.exe

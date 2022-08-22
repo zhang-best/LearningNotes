@@ -1,0 +1,8 @@
+﻿  TenSortAlgo.cpp
+D:\Projects\CplusProjects\TenSortAlgo\TenSortAlgo.cpp(18,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Projects\CplusProjects\TenSortAlgo\TenSortAlgo.cpp(21,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\Projects\CplusProjects\TenSortAlgo\TenSortAlgo.cpp(31,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Projects\CplusProjects\TenSortAlgo\TenSortAlgo.cpp(47,14): warning C4018: “<”: 有符号/无符号不匹配
+D:\Projects\CplusProjects\TenSortAlgo\TenSortAlgo.cpp(53,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Projects\CplusProjects\TenSortAlgo\TenSortAlgo.cpp(148,18): warning C4018: “<”: 有符号/无符号不匹配
+  TenSortAlgo.vcxproj -> D:\Projects\CplusProjects\TenSortAlgo\Debug\TenSortAlgo.exe
